@@ -9,6 +9,7 @@ def create_docker_icon():
  \    \         __/
   \____\_______/
 """
+    print("Printing Docker Icon")
     print(docker_icon)
 
 # Example usage
